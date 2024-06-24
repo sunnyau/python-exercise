@@ -1,3 +1,4 @@
 target/**
 .idea/
 /tmp
+tests/__pycache__
