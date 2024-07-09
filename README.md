@@ -17,4 +17,4 @@ To run unit test
 
 1. python -m unittest
 
-[a relative link](docs/beginners_python_cheat_sheet_pcc_all.pdf)
+[beginners_python_cheat_sheet_pcc_all.pdf](docs/beginners_python_cheat_sheet_pcc_all.pdf)
