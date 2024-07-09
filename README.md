@@ -16,3 +16,5 @@ To set up unit test
 To run unit test
 
 1. python -m unittest
+
+[beginners_python_cheat_sheet_pcc_all.pdf](https://github.com/user-attachments/files/16151317/beginners_python_cheat_sheet_pcc_all.pdf)
